@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_item_image_grid.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_grid.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_arrow_back.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_arrow_back.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_activity_image_settings.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_image_settings.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_splash_screen.png.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/splash_screen.png"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_edit_text_background.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_dialog_edit_sms_template.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/dialog_edit_sms_template.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_item_image_preview.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_preview.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_close.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_item_image_grid_new.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_grid_new.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_activity_sms_edit.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_sms_edit.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_season_spring.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/season_spring.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_add.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/animator_card_flip_left_in.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/animator/card_flip_left_in.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/animator_card_flip_left_out.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/animator/card_flip_left_out.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_weather_snowy.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/weather_snowy.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_input_field.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_input_field.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_tab_selector.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_item_image_with_check.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_with_check.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_check_white.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_check_white.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_dialog_sos_confirm.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/dialog_sos_confirm.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_activity_splash.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_item_sms_template.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_sms_template.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_warning.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_activity_history.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_safe_badge.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_safe_badge.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_weather_rainy.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/weather_rainy.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_weather_sunny.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/weather_sunny.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_item_image_picker.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_picker.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_button_blue.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_button_blue.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_card_info.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_card_info.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/animator_card_flip_right_in.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/animator/card_flip_right_in.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_delete.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_add_image.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_add_image.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_check_blue.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_check_blue.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_activity_sos.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_sos.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_sos_button.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_sos_button.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_dialog_default_images.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/dialog_default_images.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_item_contact.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_back.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_warning_badge.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_warning_badge.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_edit.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_image_placeholder.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_image_placeholder.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/animator_card_flip_right_out.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/animator/card_flip_right_out.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_checkbox_selector.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/checkbox_selector.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_solar_term_lichun.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/solar_term_lichun.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_card_white.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_card_white.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/drawable_bg_permission_warning.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/drawable/bg_permission_warning.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-merged_res-48:/layout_activity_add_contact.xml.flat",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_add_contact.xml"
+    }
+]

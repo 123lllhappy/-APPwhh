@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/item_sms_template.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_sms_template.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/item_image_grid.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_grid.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/item_image_picker.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_picker.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/activity_image_settings.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_image_settings.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/dialog_edit_sms_template.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/dialog_edit_sms_template.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/item_image_preview.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_preview.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/activity_sms_edit.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_sms_edit.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/item_image_with_check.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_with_check.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/item_contact.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_contact.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/item_image_grid_new.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/item_image_grid_new.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/dialog_sos_confirm.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/dialog_sos_confirm.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/activity_splash.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/dialog_default_images.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/dialog_default_images.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/activity_add_contact.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_add_contact.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/activity_history.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_history.xml"
+    },
+    {
+        "merged": "com.example.wohenhao.app-mergeDebugResources-47:/layout/activity_sos.xml",
+        "source": "com.example.wohenhao.app-main-50:/layout/activity_sos.xml"
+    }
+]

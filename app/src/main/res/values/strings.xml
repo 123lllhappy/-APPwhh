@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我很好</string>
+
+    <!-- 首页 -->
+    <string name="home_title">打卡</string>
+    <string name="home_checkin_button">今日打卡</string>
+    <string name="home_checkin_success">打卡成功！</string>
+    <string name="home_status_safe">一切正常</string>
+    <string name="home_status_warning">即将触发求助</string>
+    <string name="home_guardian_time">已守护 %s</string>
+    <string name="home_contacts_count">%d 位紧急联系人</string>
+    <string name="home_checkin_image_desc">今日打卡图片</string>
+    <string name="home_checkin_back_image_desc">背面图片</string>
+
+    <!-- SOS Tab -->
+    <string name="sos_title">紧急求助</string>
+    <string name="sos_button">SOS</string>
+    <string name="sos_hint">紧急情况下点击发送求助</string>
+    <string name="sos_confirm_title">确认发送求助？</string>
+    <string name="sos_confirm_message">将向 %d 位紧急联系人发送包含您当前位置的求助短信</string>
+    <string name="sos_confirm">确认求助</string>
+    <string name="sos_sending">正在发送求助…</string>
+    <string name="sos_success">已向 %d 位联系人发送求助短信</string>
+    <string name="sos_failed">发送失败，请检查短信权限</string>
+    <string name="sos_no_contacts">请先添加紧急联系人</string>
+
+    <!-- 联系人 -->
+    <string name="contacts_title">联系人</string>
+    <string name="contacts_empty">暂无紧急联系人\n请点击下方添加</string>
+    <string name="contacts_add">添加联系人</string>
+
+    <!-- 添加联系人 -->
+    <string name="add_contact_title">添加联系人</string>
+    <string name="edit_contact_title">编辑联系人</string>
+    <string name="contact_name_hint">姓名</string>
+    <string name="contact_phone_hint">手机号</string>
+    <string name="contact_relation_hint">关系（家人/朋友/其他）</string>
+    <string name="contact_note_hint">备注（选填）</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+
+    <!-- 设置 -->
+    <string name="settings_title">设置</string>
+    <string name="settings_guardian_mode">守护模式</string>
+    <string name="settings_boot_auto_start">开机自启动</string>
+    <string name="settings_boot_auto_start_desc">手机重启后自动启动守护服务</string>
+    <string name="settings_timeout">自动求助时间</string>
+    <string name="settings_timeout_desc">超过此时间未打卡将自动发送求助短信</string>
+    <string name="settings_timeout_12h">12小时</string>
+    <string name="settings_timeout_24h">24小时</string>
+    <string name="settings_timeout_48h">48小时</string>
+    <string name="settings_timeout_72h">72小时</string>
+    <string name="settings_timeout_30s">1小时</string>
+    
+    <!-- 短信设置 -->
+    <string name="settings_sms_section">短信设置</string>
+    <string name="settings_edit_sms">编辑求助短信</string>
+    <string name="settings_edit_sms_desc">自定义求助短信内容</string>
+    <string name="settings_sms_template_title">编辑求助短信</string>
+    <string name="settings_sms_template_hint">请输入求助短信内容\n\n可用变量：\n{location} - 当前位置\n{time} - 发送时间\n{map_link} - 地图链接</string>
+    <string name="settings_sms_default">🆘 紧急求助！\n我很好 App 检测到异常情况\n我的当前位置：{location}\n发送时间：{time}\n地图链接：{map_link}</string>
+    <!-- 模板选择 -->
+    <string name="settings_sos_template">SOS 短信模板</string>
+    <string name="settings_sos_template_desc">手动触发 SOS 时使用的模板</string>
+    <string name="settings_auto_help_template">自动求助短信模板</string>
+    <string name="settings_auto_help_template_desc">超时自动求助时使用的模板</string>
+    <string name="settings_template_none">(未设置)</string>
+    <string name="settings_template_picker_title">选择短信模板</string>
+    <string name="settings_template_picker_sos">SOS 模板</string>
+    <string name="settings_template_picker_auto_help">自动求助短信模板</string>
+
+    <!-- 历史 -->
+    <string name="history_title">历史记录</string>
+    <string name="history_empty">暂无记录</string>
+    <string name="history_sos">紧急求助</string>
+    <string name="history_auto_help">自动求助</string>
+    <string name="history_report">位置汇报</string>
+    <string name="history_checkin">打卡记录</string>
+
+    <!-- 通知 -->
+    <string name="notification_channel_name">守护服务</string>
+    <string name="notification_channel_desc">守护后台保活通知</string>
+    <string name="notification_title">我很好 · 守护中</string>
+    <string name="notification_text">您的安全正在被守护</string>
+
+    <!-- 权限 -->
+    <string name="permission_title">需要权限</string>
+    <string name="permission_sms">短信权限 - 用于发送求助短信</string>
+    <string name="permission_location">定位权限 - 用于获取您的位置</string>
+    <string name="permission_location_required">定位权限是必需的</string>
+    <string name="permission_location_guide">为了在紧急情况下准确发送您的位置信息，请授予定位权限</string>
+    <string name="permission_notification">通知权限 - 用于后台提醒</string>
+    <string name="permission_denied">权限被拒绝，部分功能可能无法使用</string>
+    <string name="permission_goto_settings">前往设置</string>
+
+    <!-- 权限引导弹窗（新增 v2.0） -->
+    <!-- 首次引导 -->
+    <string name="permission_guide_title">需要以下权限</string>
+    <string name="permission_guide_message">📍 定位权限 - 紧急求助时发送您的位置，让联系人快速找到您\n\n📱 短信权限 - 向紧急联系人发送求助短信\n\n⚠️ 这些权限是 App 正常工作的必要条件，请放心授权。</string>
+    <string name="permission_grant">授权</string>
+    <string name="permission_later">暂不需要</string>
+
+    <!-- 持续引导（拒绝后每次打开 App 都显示） -->
+    <string name="permission_guide_denied_title">权限未授权，App 无法正常工作</string>
+    <string name="permission_guide_denied_message">📍 定位权限未授权 - 求助短信中将无法包含您的位置信息，联系人无法找到您\n\n📱 短信权限未授权 - 无法向紧急联系人发送求助短信\n\n🔒 请点击「去授权」前往设置页面开启权限，App 才能为您提供完整的守护服务。</string>
+    <string name="permission_guide_goto_settings">去授权</string>
+
+    <!-- 后台定位权限引导 -->
+    <string name="bg_location_title">需要「始终允许」定位权限</string>
+    <string name="bg_location_message">「我很好」守护服务需要在后台获取您的位置，以便在您未打开 App 时也能定时检测并发送求助短信。
+
+「使用时允许」无法在后台获取位置，因为守护服务是在 App 未运行时工作的。
+
+请选择「始终允许」→ 定位权限 → 选择「始终」</string>
+    <string name="bg_location_goto_settings">去授权</string>
+    <string name="bg_location_denied_title">后台定位权限未开启</string>
+    <string name="bg_location_denied_message">守护模式需要「始终允许」定位才能在后台工作。
+
+当前定位权限为「使用时允许」，App 在后台时无法获取您的位置，守护功能将失效。
+
+请开启后台定位权限：设置 → 应用 → 我很好 → 定位 → 始终</string>
+    <string name="bg_location_skip">暂不需要</string>
+
+    <!-- Google Play 服务检测 & 备用定位 -->
+    <string name="gms_fallback_title">定位服务说明</string>
+    <string name="gms_fallback_message">您的设备未安装 Google Play 服务，无法使用高精度定位。
+
+「我很好」已自动切换到备用定位方案，定位精度可能稍低，但在紧急求助时仍可正常工作。
+
+如果您希望使用更高精度定位，请在设备上安装 Google Play 服务。</string>
+    <string name="gms_fallback_confirm">知道了</string>
+
+    <!-- Tab -->
+    <string name="tab_checkin">打卡</string>
+    <string name="tab_sos">SOS</string>
+    <!-- 打卡 Tab 引导文案 -->
+    <string name="guardian_intro_title">守护说明</string>
+    <string name="guardian_intro_desc">若24小时未打卡，将向联系人发送位置信息。</string>
+    <string name="guardian_intro_permission_need">APP正常运行需要：</string>
+    <string name="permission_granted">已获得</string>
+    <string name="permission_not_granted">未获得</string>
+    <string name="checkin_tip_guardian_mode">守护模式 · 定时检测</string>
+    <string name="settings_weibo_section">微博配图</string>
+    <string name="settings_weibo_enable">微博配图</string>
+    <string name="settings_weibo_enable_desc">打卡成功后显示微博图片</string>
+    <string name="settings_weibo_not_logged_in">未登录微博</string>
+    <string name="settings_weibo_logged_in">已登录：%s</string>
+    <string name="settings_weibo_login_hint">登录后选择图片来源</string>
+    <string name="settings_weibo_source_hint">登录后选择图片来源</string>
+    <string name="settings_weibo_source_blogger">博主相册</string>
+    <string name="settings_weibo_source_super_topic">超话相簿</string>
+    <string name="settings_weibo_source_not_set">未选择</string>
+    <string name="settings_weibo_cache_empty">暂无缓存图片</string>
+    <string name="settings_weibo_cache_count">已缓存 %d 张图片</string>
+    <string name="settings_weibo_picker_title">选择图片来源</string>
+    <string name="settings_weibo_picker_blogger">博主相册</string>
+    <string name="settings_weibo_picker_blogger_desc">抓取指定博主的微博图片</string>
+    <string name="settings_weibo_picker_super_topic">超话相簿</string>
+    <string name="settings_weibo_picker_super_topic_desc">抓取指定超话的相簿图片</string>
+    <string name="settings_weibo_search_hint">搜索博主昵称或超话名称</string>
+    <string name="settings_weibo_search_loading">搜索中…</string>
+    <string name="settings_weibo_no_result">未找到结果</string>
+    <string name="settings_weibo_refresh_loading">刷新中…</string>
+    <string name="settings_weibo_fetch_done">已抓取 %d 张图片</string>
+    <string name="settings_weibo_fetch_fail">抓取失败，请检查登录状态</string>
+    <string name="settings_weibo_login_required">请先登录微博</string>
+    <string name="settings_weibo_source_required">请先选择图片来源</string>
+    <string name="settings_weibo_not_configured">微博未配置，请先登录并选择图片来源</string>
+    <string name="checkin_tip_no_contacts">⚠️ 还未设置紧急联系人，守护暂不生效</string>
+    <string name="tab_contacts">联系人</string>
+    <string name="tab_settings">设置</string>
+
+    <!-- 天气和节气 -->
+    <string name="weather_sunny">晴天</string>
+    <string name="weather_cloudy">多云</string>
+    <string name="weather_rainy">雨天</string>
+    <string name="weather_snowy">雪天</string>
+    
+    <!-- 24节气 -->
+    <string name="solar_term_lichun">立春</string>
+    <string name="solar_term_yushui">雨水</string>
+    <string name="solar_term_jingzhe">惊蛰</string>
+    <string name="solar_term_chunfen">春分</string>
+    <string name="solar_term_qingming">清明</string>
+    <string name="solar_term_guyu">谷雨</string>
+    <string name="solar_term_lixia">立夏</string>
+    <string name="solar_term_xiaoman">小满</string>
+    <string name="solar_term_mangzhong">芒种</string>
+    <string name="solar_term_xiazhi">夏至</string>
+    <string name="solar_term_xiaoshu">小暑</string>
+    <string name="solar_term_dashu">大暑</string>
+    <string name="solar_term_liqiu">立秋</string>
+    <string name="solar_term_chushu">处暑</string>
+    <string name="solar_term_bailu">白露</string>
+    <string name="solar_term_qiufen">秋分</string>
+    <string name="solar_term_hanlu">寒露</string>
+    <string name="solar_term_shuangjiang">霜降</string>
+    <string name="solar_term_lidong">立冬</string>
+    <string name="solar_term_xiaoxue">小雪</string>
+    <string name="solar_term_daxue">大雪</string>
+    <string name="solar_term_dongzhi">冬至</string>
+    <string name="solar_term_xiaohan">小寒</string>
+    <string name="solar_term_dahan">大寒</string>
+
+    <!-- 打卡祝福语 -->
+    <string name="checkin_blessing_spring">春暖花开，愿您平安喜乐</string>
+    <string name="checkin_blessing_summer">夏日炎炎，愿您清凉安康</string>
+    <string name="checkin_blessing_autumn">秋高气爽，愿您收获满满</string>
+    <string name="checkin_blessing_winter">冬日暖阳，愿您温暖如春</string>
+    <string name="checkin_blessing_sunny">阳光明媚，愿您心情如阳光般灿烂</string>
+    <string name="checkin_blessing_rainy">细雨绵绵，愿您如雨后彩虹般美丽</string>
+</resources>

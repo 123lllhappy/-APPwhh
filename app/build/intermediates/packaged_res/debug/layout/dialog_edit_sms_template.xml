@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- 模板名称 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="模板名称"
+        android:textSize="14sp"
+        android:textColor="#333333"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/editTemplateName"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="请输入模板名称"
+        android:textSize="16sp"
+        android:background="@drawable/edit_text_background"
+        android:paddingHorizontal="12dp"
+        android:layout_marginBottom="16dp"
+        android:maxLength="20"
+        android:singleLine="true" />
+
+    <!-- 短信内容 -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="短信内容"
+        android:textSize="14sp"
+        android:textColor="#333333"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/editTemplateContent"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:hint="请输入短信内容"
+        android:textSize="16sp"
+        android:background="@drawable/edit_text_background"
+        android:padding="12dp"
+        android:gravity="top"
+        android:maxLength="200"
+        android:inputType="textMultiLine"
+        android:scrollbars="vertical"
+        android:layout_marginBottom="12dp" />
+
+    <!-- 变量提示 -->
+    <TextView
+        android:id="@+id/textVariableHint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="可用变量：{latitude} {longitude} {map_link}"
+        android:textSize="12sp"
+        android:textColor="#999999"
+        android:background="#F5F5F5"
+        android:padding="8dp" />
+
+</LinearLayout>

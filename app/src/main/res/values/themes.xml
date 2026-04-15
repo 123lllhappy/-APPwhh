@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- 启动页主题 -->
+    <style name="Theme.WoHenHao.Splash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/system_green</item>
+        <item name="android:statusBarColor">@color/system_green</item>
+        <item name="android:navigationBarColor">@color/system_green</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!-- 主主题 -->
+    <style name="Theme.WoHenHao" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/system_blue</item>
+        <item name="colorPrimaryVariant">@color/system_blue</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/system_green</item>
+        <item name="android:statusBarColor">@color/bg_primary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/bg_white</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:background">@color/bg_primary</item>
+    </style>
+
+    <!-- Card 样式 -->
+    <style name="CardStyle">
+        <item name="android:background">@drawable/bg_card_white</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <!-- 按钮样式 -->
+    <style name="PrimaryButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="backgroundTint">@color/system_blue</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <style name="SOSButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="backgroundTint">@color/system_red</item>
+        <item name="cornerRadius">50dp</item>
+    </style>
+
+    <!-- Tab 样式 -->
+    <style name="TabStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconTint">@color/tab_selector</item>
+        <item name="itemTextColor">@color/tab_selector</item>
+    </style>
+
+</resources>

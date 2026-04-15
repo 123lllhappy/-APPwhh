@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 系统色 -->
+    <color name="system_blue">#007AFF</color>
+    <color name="system_red">#FF3B30</color>
+    <color name="system_orange">#FF9F0A</color>
+    <color name="system_green">#30D158</color>
+
+    <!-- 背景色 -->
+    <color name="bg_primary">#F2F2F7</color>
+    <color name="bg_gray">#F2F2F7</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="bg_card">#FFFFFF</color>
+
+    <!-- 文字色 -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#C7C7CC</color>
+
+    <!-- 状态色 -->
+    <color name="safe_green">#30D158</color>
+    <color name="warning_orange">#FF9F0A</color>
+    <color name="danger_red">#FF3B30</color>
+
+    <!-- 分割线 -->
+    <color name="divider">#E5E5EA</color>
+
+    <!-- Tab 栏 -->
+    <color name="tab_selected">#007AFF</color>
+    <color name="tab_unselected">#8E8E93</color>
+    <color name="tab_selector">@color/tab_selected</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>
